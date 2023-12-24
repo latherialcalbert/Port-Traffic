@@ -1,0 +1,150 @@
+,rank,Port,Short tons 1994,port,Short tons 1993,port,Short tons 1992,port,Short tons 1991
+4,3.0,South Louisiana (LA),"184,856",South Louisiana (LA),"193,796",South Louisiana (LA),"199,665",South Louisiana (LA),"189,654"
+5,4.0,Houston (TX),"143,663",Houston (TX),"141,477",Houston (TX),"137,664",Houston (TX),"131,514"
+6,5.0,New York/New Jersey,"126,101",New York/New Jersey,"116,736",New York/New Jersey,"115,311",New York/New Jersey,"126,861"
+7,6.0,Baton Rouge (LA),"86,246",Valdez (AK0,"85,722",Valdez (AK0,"93,737",Valdez (AK0,"99,616"
+8,7.0,Valdez (AK0,"85,096",Baton Rouge (LA),"85,079",Baton Rouge (LA),"84,699",Baton Rouge (LA),"87,630"
+9,8.0,Corpus Christi (TX),"78,124",New Orleans (LA),"67,037",Hampton Roads (VA),"79,064",Hampton Roads (VA),"86,315"
+10,9.0,New Orleans (LA),"73,333",Hampton Roads (VA),"65,711",New Orleans (LA),"66,441",New Orleans (LA),"60,898"
+11,10.0,Plaquemines (LA),"64,759",Corpus Christi (TX),"59,636",Corpus Christi (TX),"60,833",Corpus Christi (TX),"59,052"
+12,11.0,Hampton Roads (VA),"62,746",Long Beach (CA),"54,321",Plaquemines (LA),"58,473",Plaquemines (LA),"53,782"
+13,12.0,Long Beach (CA),"56,522",Texas City (TX),"53,653",Long Beach (CA),"52,049",Long Beach (CA),"52,981"
+14,13.0,Tampa (FL),"51,905",Plaquemines (LA),"53,110",Tampa (FL),"46,434",Tampa (FL),"49,548"
+15,14.0,Lake Charles (LA),"48,331",Lake Charles (LA),"45,436",Lake Charles (LA),"44,039",Los Angeles (CA),"47,008"
+16,15.0,Port Arthur (TX),"45,586",Tampa (FL),"44,993",Texas City (TX),"43,104",Texas City (TX),"43,290"
+17,16.0,Mobile (AL),"44,997",Mobile (AL),"43,960",Mobile (AL),"40,482",Mobile (AL),"41,343"
+18,17.0,Texas City (TX),"44,351",Los Angeles (CA),"43,623",Los Angeles (CA),"40,104",Lake Charles (LA),"41,237"
+19,18.0,Los Angeles (CA),"43,140",Philadelphia (PA),"42,708",Philadelphia (PA),"39,667",Baltimore (MD),"37,745"
+20,19.0,Duluth/Superior (MI/WI),"41,819",Port Arthur (TX),"38,327",Duluth/Superior (MI/WI),"39,304",Duluth/Superior (MI/WI),"37,716"
+21,20.0,Baltimore (MD),"41,450",Duluth/Superior (MI/WI),"37,679",Baltimore (MD),"37,656",Philadelphia (PA),"37,257"
+22,21.0,Philadelphia (PA),"40,746",Baltimore (MD),"37,170",Port Arthur (TX),"33,526",Port Arthur (TX),"29,835"
+23,22.0,Portland (WA),"30,164",Portland (WA),"29,804",Pascagoula (MS),"29,253",Pascagoula (MS),"29,572"
+24,23.0,Pascagoula (MS),"30,049",Pascagoula (MS),"27,020",Portland (WA),"28,227",Portland (WA),"29,299"
+25,24.0,Chicago (IL),"29,422",Beaumont (TX),"25,410",Beaumont (TX),"22,702",Beaumont (TX),"22,383"
+26,25.0,Richmond (CA),"24,094",Chicago (IL),"25,048",Chicago (IL),"22,154",Chicago (IL),"21,767"
+27,26.0,Seattle (WA),"22,336",Richmond (CA),"24,570",Seattle (WA),"21,883",Seattle (WA),"20,897"
+28,27.0,Beaumont (TX),"21,201",Seattle (WA),"21,693",Richmond (CA),"21,042",Richmond (CA),"19,919"
+29,28.0,Jacksonville (FL),"18,914",Boston(MA),"19,448",Tacoma (WA),"20,116",Tacoma (WA),"19,544"
+30,29.0,Boston(MA),"18,870",Jacksonville (FL),"18,850",Boston(MA),"19,208",Boston(MA),"18,562"
+31,30.0,Detroit (MI),"18,718",Tacoma (WA),"18,652",Jacksonville (FL),"17,209",Jacksonville (FL),"16,364"
+32,31.0,Port Everglades (FL),"18,135",Detroit (MI),"17,422",Detroit (MI),"16,303",Freeport (TX),"15,666"
+33,32.0,Tacoma (WA),"17,616",Port Everglades (FL),"16,297",Indiana Harbor (IN),"15,326",Port Everglades (FL),"14,499"
+34,33.0,Freeport (TX),"17,450",Indiana Harbor (IN),"15,546",Anacortes (WA),"15,260",Anacortes (WA),"14,481"
+35,34.0,San Juan (PR),"16,300",Savannah (GA),"14,963",Freeport (TX),"14,953",Detroit (MI),"14,321"
+36,35.0,Indiana Harbor (IN),"16,145",San Juan (PR),"14,153",Port Everglades (FL),"14,508",San Juan (PR),"14,163"
+37,36.0,Savannah (GA),"15,905",Cleveland (OH),"14,083",San Juan (PR),"14,331",Indiana Harbor (IN),"13,767"
+38,37.0,Cleveland (OH),"15,284",Freeport (TX),"14,025",Savannah (GA),"13,989",Lorain (OH),"13,632"
+39,38.0,Lorain (OH),"14,748",Lorain (OH),"13,677",Cleveland (OH),"13,654",Cleveland (OH),"13,406"
+40,39.0,Portland (ME),"14,245",Anacortes (WA),"13,124",Lorain (OH),"13,282",Savannah (GA),"13,337"
+41,40.0,Toledo (OH),"13,204",Oakland (CA),"12,734",Oakland (CA),"13,211",Two Harbors (MI),"12,501"
+42,41.0,Anacortes (WA),"12,950",Toledo (OH),"12,150",Toledo (OH),"12,722",Toledo (OH),"12,073"
+43,42.0,Oakland (CA),"12,914",Portland (ME),"11,171",Portland (ME),"12,511",Honolulu (HI),"11,208"
+44,43.0,Honolulu (HI),"11,672",Two Harbors (MI),"10,711",Galveston (TX),"12,318",Galveston (TX),"10,858"
+45,44.0,Charleston (SC),"10,830",Honolulu (HI),"10,595",Honolulu (HI),"11,522",Ashtabula (OH),"10,638"
+46,45.0,Ashtabula (OH),"10,368",Galveston (TX),"9,755",Two Harbors (MI),"11,160",Oakland (CA),"10,356"
+47,46.0,Galveston (TX),"10,257",Taconite (MN),"9,716",Presque Isle (MI),"10,737",Charleston (SC),"9,464"
+48,47.0,Presque Isle (MI),"10,191",Presque Isle (MI),"9,672",Ashtabula (OH),"10,519",Stoneport (MI),"9,317"
+49,48.0,Taconite (MN),"9,510",Charleston (SC),"9,503",Charleston (SC),"9,650",Barbers Point (HI),"9,002"
+50,49.0,New Haven (CT),"9,471",Barbers Point (HI),"9,357",Taconite (MN),"9,069",Calcite (MI),"8,814"
+51,50.0,Burns Waterway (IN),"9,344",Burns Waterway (IN),"9,315",Barbers Point (HI),"8,824",Taconite (MN),"8,684"
+0,,Two Harbors (MI),"9,288",Ashtabula (OH),"8,979",Burns Waterway (IN),"8,756",Burns Waterway (IN).1,"8,304"
+1,0.0,Barbers Point (HI),"9,022",Stoneport (MI),"8,752",Stoneport (MI),"8,650",New Haven (CT),"8,154"
+2,1.0,Stoneport (MI),"8,416",New Haven (CT),"8,740",New Haven (CT),"8,430",Portland (ME),"8,032"
+3,2.0,Wilmington (NC),"7,913",Wilmington (NC),"7,813",Escanaba (MI),"7,401",Longview (WA),"7,806"
+4,3.0,Escanaba (MI),"7,775",Vancouver (WA),"7,380",Wilmington (NC),"7,226",Presque Isle (MI),"7,801"
+5,4.0,Calcite (MI),"7,456",Escanaba (MI),"7,142",Calcite (MI),"7,049",Wilmington (NC),"7,175"
+6,5.0,Port Lavaca (TX),"7,380",Miami (FL),"6,696",Grays Harbor (WA),"6,953",Escanaba (MI),"6,492"
+7,6.0,Providence (RI),"6,567",Providence (RI),"6,558",Vancouver (WA),"6,839",Vancouver (WA),"6,485"
+8,7.0,Miami (FL),"6,517",Kalama (WA),"6,501",Kalama (WA),"6,676",Conneaut (OH),"6,336"
+9,8.0,Longview (WA),"6,442",Calcite (MI),"6,419",Conneaut (OH),"6,540",Port Lavaca (TX),"6,266"
+10,9.0,Vancouver (WA),"6,281",Albany (NY),"6,053",Miami (FL),"6,451",Providence (RI),"6,015"
+11,10.0,Albany (NY),"6,107",Port Lavaca (TX),"5,893",Longview (WA),"6,309",Albany (NY),"5,967"
+12,11.0,St. Clair (MI),"5,887",Longview (WA),"5,476",Providence (RI),"6,185",Kalama (WA),"5,881"
+13,12.0,Camden (NJ),"5,669",Coos Bay (OR),"5,413",Everett (WA),"6,010",Camden (NJ),"5,668"
+14,13.0,Conneaut (OH),"5,655",Saginaw River (MI),"5,234",Albany (NY),"5,674",Coos Bay (OR),"5,523"
+15,14.0,Sandusky (OH),"5,422",Sandusky (OH),"5,176",Port Lavaca (TX),"5,390",Everett (WA),"5,453"
+16,15.0,Kalama (WA),"5,351",St. Clair (MI),"5,039",Sandusky (OH),"5,179",Morehead City (NC),"5,237"
+17,16.0,Saginaw River (MI),"5,119",Everett (WA),"4,714",Camden (NJ),"4,855",St. Clair (MI),"4,778"
+18,17.0,Wilmington (DE),"4,503",Camden (NJ),"4,664",St. Clair (MI),"4,666",Pensacola (FL),"4,760"
+19,18.0,Morehead City (NC),"4,195",Grays Harbor (WA),"4,383",Coos Bay (OR),"4,458",Miami (FL),"4,720"
+20,19.0,Everett (WA),"4,192",Wilmington (DE),"4,106",Morehead City (NC),"4,440",Grays Harbor (WA),"4,488"
+21,20.0,Fall River (MA),"4,178",Morehead City (NC),"3,999",Wilmington (DE),"3,826",Wilmington (DE),"4,154"
+22,21.0,Coos Bay (OR),"3,744",Portsmouth(NH),"3,692",Saginaw River (MI),"3,789",Sandusky (OH),"4,018"
+23,22.0,Canaveral (FL),"3,625",Conneaut (OH),"3,534",Portsmouth(NH),"3,738",Marine City (MI),"3,896"
+24,23.0,Marine City (MI),"3,572",Fall River (MA),"3,458",Fall River (MA),"3,530",Saginaw River (MI),"3,895"
+25,24.0,Portsmouth(NH),"3,479",Marine City (MI),"3,454",San Francisco (CA),"3,198",Fall River (MA),"3,884"
+26,25.0,Brownsville (TX),"3,396",Canaveral (FL),"3,454",Marine City (MI),"3,174",Portsmouth(NH),"3,537"
+27,26.0,Bridgeport (CT),"3,054",Bridgeport (CT),"2,942",Canaveral (FL),"2,968",Bridgeport (CT),"3,268"
+28,27.0,Fairport (OH),"2,955",Port Manatee,"2,890",Bridgeport (CT),"2,948",Canaveral (FL),"3,004"
+29,28.0,Palm Beach (FL),"2,884",Palm Beach (FL),"2,816",Port Manatee,"2,797",Panama City (FL),"2,938"
+30,29.0,Port Manatee,"2,730",Green Bay (WI),"2,587",Panama City (FL),"2,734",San Francisco (CA),"2,898"
+31,30.0,Alpena (MI),"2,672",Panama City (FL),"2,586",Palm Beach (FL),"2,646",Port Angeles (WA),"2,680"
+32,31.0,Milwaukee (WI),"2,641",Alpena (MI),"2,547",Fairport (OH),"2,613",Kahului (HI),"2,434"
+33,32.0,Anchorage (AK),"2,559",Milwaukee (WI),"2,496",Anchorage (AK),"2,540",Anchorage (AK),"2,309"
+34,33.0,Panama City (FL),"2,503",Anchorage (AK),"2,470",Alpena (MI),"2,486",Humboldt Bay (CA),"2,301"
+35,34.0,Kahului (HI),"2,368",Fairport (OH),"2,403",Buffalo (NY),"2,473",Alpena (MI),"2,284"
+36,35.0,Green Bay (WI),"2,288",San Francisco (CA),"2,340",Green Bay (WI),"2,431",New London (CT),"2,130"
+37,36.0,Monroe (MI),"2,035",Kahului (HI),"2,216",Kahului (HI),"2,357",Milwaukee (WI),"2,076"
+38,37.0,Muskegon (MI),"2,004",Drummond Island (MI),"2,205",Port Angeles (WA),"2,336",Palm Beach (FL),"2,075"
+39,38.0,Gulfport (MS),"1,842",Buffalo (NY),"2,109",Milwaukee (WI),"2,153",Green Bay (WI),"2,068"
+40,39.0,Ketchikan (AK),"1,759",Port Angeles (WA),"1,987",Ketchikan (AK),"1,986",Fairport (OH),"2,052"
+41,40.0,San Francisco (CA),"1,739",Redwood City (CA),"1,829",Skagway (AK),"1,949",Richmond (VA),"1,909"
+42,41.0,Port Angeles (WA),"1,695",New London (CT),"1,793",Monroe (MI),"1,778",Richmond (VA),"1,909"
+43,42.0,Buffalo (NY),"1,685",Brownsville (TX),"1,735",New London (CT),"1,765",Buffalo (NY),"1,895"
+44,43.0,New London (CT),"1,675",Port Huron (MI),"1,687",Stockton (CA),"1,719",Monroe (MI),"1,837"
+45,44.0,Grays Harbor (WA),"1,654",Richmond (VA),"1,669",Pensacola (FL),"1,690",Brunswick (GA),"1,719"
+46,45.0,Brunswick (GA),"1,626",Richmond (VA),"1,669",Port Huron (MI),"1,652",Brownsville (TX),"1,610"
+47,46.0,Stockton (CA),"1,609",Pensacola (FL),"1,650",Richmond (VA),"1,633",Port Huron (MI),"1,609"
+48,47.0,Charlevoix (MI),"1,549",Muskegon (MI),"1,635",Richmond (VA),"1,633",Port Manatee,"1,602"
+49,48.0,Sacramento (CA),"1,545",Brunswick (GA),"1,593",Brownsville (TX),"1,594",Ketchikan (AK),"1,568"
+50,49.0,Christiansted (VI),"1,543",Ketchikan (AK),"1,564",Hilo (HI),"1,588",Hilo (HI),"1,556"
+51,50.0,Olympia (WA),"1,514",Salem (MA),"1,558",Muskegon (MI),"1,562",Salem (MA),"1,552"
+52,51.0,Drummond Island (MI),"1,474",Hilo (HI),"1,469",Drummond Island (MI),"1,496",Stockton (CA),"1,491"
+53,52.0,Pensacola (FL),"1,466",Charlevoix (MI),"1,467",Brunswick (GA),"1,450",Bellingham (WA),"1,482"
+54,53.0,Hilo (HI),"1,455",Gulfport (MS),"1,420",Salem (MA),"1,439",Muskegon (MI),"1,358"
+55,54.0,Humboldt Bay (CA),"1,407",Searsport (ME),"1,407",Bellingham (WA),"1,383",Charlevoix (MI),"1,312"
+56,55.0,Astoria (OR),"1,354",San Diego (CA),"1,294",Bucksport (ME),"1,354",Skagway (AK),"1,290"
+57,56.0,Bellingham (WA),"1,343",Nawiliwili (HI),"1,283",Charlevoix (MI),"1,353",Sacramento (CA),"1,226"
+58,57.0,Bucksport (ME),"1,232",Hopewell (VA),"1,256",Humboldt Bay (CA),"1,311",Seward (AK),"1,181"
+59,58.0,Salem (MA),"1,227",Bellingham (WA),"1,223",Hopewell (VA),"1,278",Bucksport (ME),"1,113"
+60,59.0,Marysville (MI),"1,175",Christiansted (VI),"1,202",Gulfport (MS),"1,249",Hopewell (VA),"1,101"
+61,60.0,San Diego (CA),"1,167",Erie (PA),"1,160",Erie (PA),"1,247",Erie (PA),"1,008"
+62,61.0,Nawiliwili (HI),"1,151",Bucksport (ME),"1,158",Nawiliwili (HI),"1,143",Nawiliwili (HI),"1,005"
+63,62.0,Searsport (ME),"1,136",Georgetown(SC),"1,113",Sacramento (CA),"1,136",Georgetown(SC),962
+64,63.0,Richmond (VA),"1,134",Stockton (CA),"1,103",Christiansted (VI),"1,046",Olympia (WA),945
+65,64.0,Richmond (VA),"1,134",Monroe (MI),"1,078",Georgetown(SC),955,Gulfport (MS),944
+66,65.0,Ludington (MI),"1,093",Sacramento (CA),"1,078",Grand Haven (MI),871,Ludington (MI),929
+67,66.0,Erie (PA),979,Grand Haven (MI),"1,004",Ludington (MI),846,San Diego (CA),904
+68,67.0,Seward (AK),961,Humboldt Bay (CA),994,Ponce (PR),829,Searsport (ME),889
+69,68.0,Hopewell (VA),916,Ludington (MI),966,Redwood City (CA),816,Orange (TX),849
+70,69.0,Grand Haven (MI),878,Olympia (WA),924,Kawaihae (HI),790,Oswego (NY),818
+71,70.0,Huron (OH),871,Seward (AK),862,Searsport (ME),783,Grand Haven (MI),792
+72,71.0,Redwood City (CA),856,Marquette (MI),789,Astoria (OR),721,Drummond Island (MI),786
+73,72.0,Port Huron (MI),839,Marysville (MI),736,Wrangell (AK),718,Kawaihae (HI),745
+74,73.0,Marquette (MI),822,Hueneme (CA),696,Olympia (WA),714,Christiansted (VI),745
+75,74.0,Hueneme (CA),814,Skagway (AK),660,Seward (AK),686,Ponce (PR),727
+76,75.0,Kawaihae (HI),736,Kawaihae (HI),655,Marysville (MI),640,Wrangell (AK),714
+77,76.0,Georgetown(SC),706,Ponce (PR),595,San Diego (CA),638,Astoria (OR),660
+78,77.0,Orange (TX),686,Orange (TX),579,Huron (OH),618,Marquette (MI),634
+79,78.0,Ponce (PR),678,Waukegan (IL),577,Oswego (NY),582,Waukegan (IL),598
+80,79.0,Waukegan (IL),604,Wrangell (AK),569,Kelleys Island (OH),564,Kodiak (AK),571
+81,80.0,New Bedford (MA),601,Kelleys Island (OH),564,Orange (TX),553,Port Townsend (WA),546
+82,81.0,Fernandina (FL),588,Huron (OH),529,Waukegan (IL),520,St. Thomas (VI),526
+83,82.0,Kodiak (AK),569,Kodiak (AK),525,Kodiak (AK),490,Huron (OH),524
+0,,St. Thomas (VI),562,Fernandina (FL),520,New Bedford (MA),484,Marysville (MI),518
+1,0.0,Wrangell (AK),547,Oswego (NY),506,Hueneme (CA),474,Redwood City (CA),507
+2,1.0,Kelleys Island (OH),521,New Bedford (MA),503,Marquette (MI),454,Kelleys Island (OH),503
+0,,Oswego (NY),474,St. Thomas (VI),491,St. Thomas (VI).1,447,New Bedford (MA),503
+1,0.0,Mayaguez (PR),434,Mayaguez (PR),478,Fernandina (FL),379,Hueneme (CA),416
+2,1.0,Port Townsend (WA),402,Homer (AK),472,Mayaguez (PR),366,Mayaguez (PR),410
+3,2.0,Homer (AK),377,Astoria (OR),412,Port Townsend (WA),325,Fernandina (FL),367
+4,3.0,Fajardo (PR),271,Fajardo (PR),310,Homer (AK),287,Fajardo (PR),323
+5,4.0,Juneau (AK),222,Port Townsend (WA),201,Fajardo (PR),283,Juneau (AK),179
+6,5.0,Skagway (AK),128,Juneau (AK),193,Juneau (AK),163,Homer (AK),82
+7,6.0,Sitka (AK),-,Sitka (AK),-,Sitka (AK),-,Sitka (AK),-
+8,7.0,Silver Bay (MN),,Silver Bay (MN),,Silver Bay (MN),,Silver Bay (MN),
+9,8.0,Paulsboro (NJ),,Marcus Hook (PA),,Marcus Hook (PA),,Buffington (IN),
+10,9.0,Marblehead (OH),,Gary (IN),,Port Dolmite (MI),,Paulsboro (NJ),
+11,10.0,Buffington (IN),,Paulsboro (NJ),,Marblehead (OH),,Gary (IN),
+12,11.0,Gary (IN),,Buffington (IN),,Gary (IN),,Marblehead (OH),
+13,12.0,Port Inland (MI),,Port Inland (MI),,Port Inland (MI),,Port Dolmite (MI),
