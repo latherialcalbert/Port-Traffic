@@ -1,0 +1,58 @@
+, , ,Origin,Destination,Transit,Service,Origin Trade Region
+0,0,0,Ningbo,Charleston SC,33,Maersk/SeaLand ‐ Asia‐USEC‐TP20 rtw,"Asia: Taiwan, China, Hong Kong"
+1,1,1,Ningbo,Charleston SC,36,OCEAN Alliance ‐‐ ANL ‐ NUE,"Asia: Taiwan, China, Hong Kong"
+2,2,2,Ningbo,Charleston SC,37,Sea Lead/TS Lines ‐ Asia East Coast‐AEC,"Asia: Taiwan, China, Hong Kong"
+3,3,3,Ningbo,Charleston SC,52,THE Alliance ‐ North America East Coast 2‐EC2,"Asia: Taiwan, China, Hong Kong"
+4,4,4,Ningbo,Charleston SC,53,CMA CGM/APL ‐‐ COSCO/Evergreen Line ‐ Chesapeake Bay Express‐CBX,"Asia: Taiwan, China, Hong Kong"
+5,5,5,Pecem (near Fortaleza),Charleston SC,16,Hamburg Sud/Hapag‐Lloyd ‐‐ Alianca/Maersk Line/SeaLand ‐ TANGO/SEC,East Coast of South America
+6,6,6,Pipavav,Charleston SC,28,Maersk Line ‐‐ APL/SeaLand ‐ MECL1,Indian Subcontinent
+7,7,7,Piraeus,Charleston SC,20,COSCO/ONE ‐‐ OOCL ‐ EMA,Mediterranean
+8,8,8,Port Chalmers,Charleston SC,35,Maersk Line ‐‐ Alianca/Hamburg Sud/Hapag‐Lloyd/MSC/SeaLand ‐ OC1,Oceania
+9,9,9,Port Elizabeth ZA,Charleston SC,44,MSC/Maersk Line ‐ America Express‐AMEX,Africa (excluding Med)
+10,10,10,Port Kelang,Charleston SC,51,OCEAN Alliance ‐‐ ANL ‐ Columbus JAX‐CJX,Asia: Southeast Asia
+11,11,11,Port Qasim,Charleston SC,28,MSC ‐ Indus Express,Indian Subcontinent
+12,12,12,Port Qasim,Charleston SC,31,Maersk Line ‐‐ APL/SeaLand ‐ MECL1,Indian Subcontinent
+13,13,13,Port Qasim,Charleston SC,43,Hapag‐Lloyd/CMA CGM/ONE/OOCL ‐‐ ANL/APL ‐ India East Coast Express‐INDAMEX,Indian Subcontinent
+14,14,14,Port Said Egypt,Charleston SC,45,Maersk Line ‐‐ APL/SeaLand ‐ MECL1,Mediterranean
+15,15,15,Porto Itapoa,Charleston SC,25,Hamburg Sud/Hapag‐Lloyd ‐‐ Alianca/Maersk Line/SeaLand ‐ TANGO/SEC,East Coast of South America
+16,16,16,Qingdao,Charleston SC,27,Wan Hai ‐ Asia America Service IX‐AA9 rtw,"Asia: Taiwan, China, Hong Kong"
+17,17,17,Qingdao,Charleston SC,33,Sea Lead/TS Lines ‐ Asia East Coast‐AEC,"Asia: Taiwan, China, Hong Kong"
+18,18,18,Qingdao,Charleston SC,34,ZIM ‐‐ Alianca/Hamburg Sud/Maersk Line/MSC/SeaLand ‐ ZCP,"Asia: Taiwan, China, Hong Kong"
+19,19,19,Qingdao,Charleston SC,40,OCEAN Alliance ‐‐ ANL ‐ NUE,"Asia: Taiwan, China, Hong Kong"
+20,20,20,Qingdao,Charleston SC,54,THE Alliance ‐ North America East Coast 2‐EC2,"Asia: Taiwan, China, Hong Kong"
+21,21,21,Rio de Janeiro,Charleston SC,22,Hamburg Sud/Hapag‐Lloyd ‐‐ Alianca/Maersk Line/SeaLand ‐ TANGO/SEC,East Coast of South America
+22,22,22,Rio Grande BR,Charleston SC,27,Hamburg Sud/Hapag‐Lloyd ‐‐ Alianca/Maersk Line/SeaLand ‐ TANGO/SEC,East Coast of South America
+23,23,23,Rotterdam,Charleston SC,12,OCEAN Alliance ‐ Victory Bridge‐VICTORY,North Europe
+24,24,24,Rotterdam,Charleston SC,14,2M Alliance ‐ TA1/NEUATL1,North Europe
+25,25,25,Rotterdam,Charleston SC,24,OCEAN Alliance ‐ Liberty Bridge‐LIBERTY,North Europe
+26,26,26,Salalah,Charleston SC,22,Maersk Line ‐‐ APL/SeaLand ‐ MECL1,Mideast
+27,27,27,Salvador,Charleston SC,18,Hamburg Sud/Hapag‐Lloyd ‐‐ Alianca/Maersk Line/SeaLand ‐ TANGO/SEC,East Coast of South America
+28,28,28,Santos,Charleston SC,23,Hamburg Sud/Hapag‐Lloyd ‐‐ Alianca/Maersk Line/SeaLand ‐ TANGO/SEC,East Coast of South America
+29,29,29,Shanghai,Charleston SC,31,ZIM ‐‐ Alianca/Hamburg Sud/Maersk Line/MSC/SeaLand ‐ ZCP,"Asia: Taiwan, China, Hong Kong"
+30,30,30,Shanghai,Charleston SC,32,Maersk/SeaLand ‐ Asia‐USEC‐TP20 rtw,"Asia: Taiwan, China, Hong Kong"
+31,31,31,Shanghai,Charleston SC,32,MSC ‐ Santana Service,"Asia: Taiwan, China, Hong Kong"
+32,32,32,Shanghai,Charleston SC,34,THE Alliance ‐ North America East Coast‐EC1,"Asia: Taiwan, China, Hong Kong"
+33,33,33,Shanghai,Charleston SC,35,OCEAN Alliance ‐‐ ANL ‐ South Atlantic Express‐ECX1/AWE4 rtw,"Asia: Taiwan, China, Hong Kong"
+34,34,34,Shanghai,Charleston SC,35,Sea Lead/TS Lines ‐ Asia East Coast‐AEC,"Asia: Taiwan, China, Hong Kong"
+35,35,35,Shanghai,Charleston SC,38,OCEAN Alliance ‐‐ ANL ‐ NUE,"Asia: Taiwan, China, Hong Kong"
+36,36,36,Shanghai,Charleston SC,49,CMA CGM/APL ‐‐ COSCO/Evergreen Line ‐ Chesapeake Bay Express‐CBX,"Asia: Taiwan, China, Hong Kong"
+37,37,37,Shanghai,Charleston SC,49,THE Alliance ‐ North America East Coast 2‐EC2,"Asia: Taiwan, China, Hong Kong"
+38,38,38,Shekou Shenzhen (Chiwan),Charleston SC,31,Wan Hai ‐ Asia America Service IX‐AA9 rtw,"Asia: Taiwan, China, Hong Kong"
+39,39,39,Sines,Charleston SC,18,2M Alliance ‐‐ Hamburg Sud ‐ MEDUSEC/TA5,North Europe
+40,40,40,Singapore,Charleston SC,36,THE Alliance ‐ North America East Coast‐EC4,Asia: Southeast Asia
+41,41,41,Singapore,Charleston SC,53,OCEAN Alliance ‐‐ ANL ‐ Columbus JAX‐CJX,Asia: Southeast Asia
+42,42,42,Southampton UK,Charleston SC,30,OCEAN Alliance ‐ Liberty Bridge‐LIBERTY,North Europe
+43,43,43,Sydney,Charleston SC,45,Maersk Line ‐‐ Alianca/Hamburg Sud/Hapag‐Lloyd/MSC/SeaLand ‐ OC1,Oceania
+44,44,44,Tanjung Pelepas,Charleston SC,31,ZIM ‐‐ 2M Alliance ‐ ZSE rtw,Asia: Southeast Asia
+45,45,45,Tauranga,Charleston SC,32,Maersk Line ‐‐ Alianca/Hamburg Sud/Hapag‐Lloyd/MSC/SeaLand ‐ OC1,Oceania
+46,46,46,Vado Ligure,Charleston SC,17,COSCO/ONE ‐‐ OOCL ‐ EMA,Mediterranean
+47,47,47,Valencia,Charleston SC,22,2M Alliance ‐‐ Hamburg Sud ‐ MEDUSEC/TA5,Mediterranean
+48,48,48,Veracruz MEX,Charleston SC,15,2M Alliance ‐‐ Hamburg Sud/SeaLand ‐ TA3/NEUATL3,Mexico
+49,49,49,Xiamen,Charleston SC,37,OCEAN Alliance ‐‐ ANL ‐ South Atlantic Express‐ECX1/AWE4 rtw,"Asia: Taiwan, China, Hong Kong"
+50,50,50,Yantian Shenzhen,Charleston SC,25,ZIM ‐‐ 2M Alliance ‐ ZSE rtw,"Asia: Taiwan, China, Hong Kong"
+51,51,51,Yantian Shenzhen,Charleston SC,35,Maersk/SeaLand ‐ Asia‐USEC‐TP20 rtw,"Asia: Taiwan, China, Hong Kong"
+52,52,52,Yantian Shenzhen,Charleston SC,38,THE Alliance ‐ North America East Coast‐EC1,"Asia: Taiwan, China, Hong Kong"
+53,53,53,Yantian Shenzhen,Charleston SC,39,OCEAN Alliance ‐‐ ANL ‐ South Atlantic Express‐ECX1/AWE4 rtw,"Asia: Taiwan, China, Hong Kong"
+54,54,54,Yantian Shenzhen,Charleston SC,42,THE Alliance ‐ North America East Coast‐EC4,"Asia: Taiwan, China, Hong Kong"
+55,55,55,Yantian Shenzhen,Charleston SC,58,CMA CGM/APL ‐‐ COSCO/Evergreen Line ‐ Chesapeake Bay Express‐CBX,"Asia: Taiwan, China, Hong Kong"
+56,56,56,Yantian Shenzhen,Charleston SC,59,OCEAN Alliance ‐‐ ANL ‐ Columbus JAX‐CJX,"Asia: Taiwan, China, Hong Kong"

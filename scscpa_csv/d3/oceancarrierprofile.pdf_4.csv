@@ -1,0 +1,67 @@
+,OriginDestinationTransitServiceDestination Trade Region
+0,Charleston SCAbu Dhabi39MSC ‐ Indus ExpressMideast
+1,Charleston SCAlexandria Egypt21COSCO/ONE ‐‐ OOCL ‐ EMAMediterranean
+2,Charleston SCAliaga19COSCO/ONE ‐‐ OOCL ‐ EMAMediterranean
+3,Charleston SCAltamira MEX5OCEAN Alliance ‐ Victory Bridge‐VICTORYMexico
+4,Charleston SCAntwerp72M Alliance ‐‐ Hamburg Sud/SeaLand ‐ TA3/NEUATL3North Europe
+5,Charleston SCAntwerp10OCEAN Alliance ‐ Liberty Bridge‐LIBERTYNorth Europe
+6,Charleston SCAntwerp12THE Alliance ‐ Transatlantic Loop 3‐AL3North Europe
+7,Charleston SCAntwerp212M Alliance ‐‐ Alianca/Hamburg Sud ‐ NEUATL2/TA2North Europe
+8,Charleston SCAntwerp222M Alliance ‐ TA1/NEUATL1North Europe
+9,Charleston SCBalboa7Maersk Line ‐‐ Alianca/Hamburg Sud/Hapag‐Lloyd/MSC/SeaLand ‐ OC1Central America
+10,Charleston SCBremerhaven112M Alliance ‐‐ Hamburg Sud/SeaLand ‐ TA3/NEUATL3North Europe
+11,Charleston SCBremerhaven13OCEAN Alliance ‐ Liberty Bridge‐LIBERTYNorth Europe
+12,Charleston SCBremerhaven192M Alliance ‐‐ Alianca/Hamburg Sud ‐ NEUATL2/TA2North Europe
+13,Charleston SCBremerhaven272M Alliance ‐ TA1/NEUATL1North Europe
+14,Charleston SCBuenos Aires22Hamburg Sud/Hapag‐Lloyd ‐‐ Alianca/Maersk Line/SeaLand ‐ TANGO/SECEast Coast of South America
+15,"Charleston SCBusan22CMA CGM/APL ‐‐ COSCO/Evergreen Line ‐ Chesapeake Bay Express‐CBXAsia: Russian Far East, Japan, Korea"
+16,"Charleston SCBusan25THE Alliance ‐ North America East Coast 2‐EC2Asia: Russian Far East, Japan, Korea"
+17,"Charleston SCBusan41ZIM ‐‐ Alianca/Hamburg Sud/Maersk Line/MSC/SeaLand ‐ ZCPAsia: Russian Far East, Japan, Korea"
+18,"Charleston SCBusan45THE Alliance ‐ North America East Coast‐EC1Asia: Russian Far East, Japan, Korea"
+19,Charleston SCCai Mep (near Ho Chi Minh)31OCEAN Alliance ‐‐ ANL ‐ Columbus JAX‐CJXAsia: Southeast Asia
+20,Charleston SCCai Mep (near Ho Chi Minh)36OCEAN Alliance ‐‐ ANL ‐ South Atlantic Express‐ECX1/AWE4 rtwAsia: Southeast Asia
+21,Charleston SCCai Mep (near Ho Chi Minh)46ZIM ‐‐ 2M Alliance ‐ ZSE rtwAsia: Southeast Asia
+22,Charleston SCCai Mep (near Ho Chi Minh)50THE Alliance ‐ North America East Coast‐EC4Asia: Southeast Asia
+23,Charleston SCCape Town33MSC/Maersk Line ‐ America Express‐AMEXAfrica (excluding Med)
+24,Charleston SCCartagena Colombia6Hamburg Sud/Hapag‐Lloyd ‐‐ APL/CMA CGM/Maersk Line/SeaLand ‐ AGAS/USWCaribbean/North Coast of South America
+25,"Charleston SCColon, Panama11OCEAN Alliance ‐‐ ANL ‐ NUECentral America"
+26,Charleston SCCristobal Panama69Maersk Line ‐‐ Alianca/Hamburg Sud/Hapag‐Lloyd/MSC/SeaLand ‐ OC1Central America
+27,Charleston SCDubai Jebel Ali40MSC ‐ Indus ExpressMideast
+28,Charleston SCDurban28MSC/Maersk Line ‐ America Express‐AMEXAfrica (excluding Med)
+29,Charleston SCFreeport Bahamas3MSC ‐ Indus ExpressCaribbean/North Coast of South America
+30,Charleston SCFreeport Bahamas5MSC/Maersk Line ‐ America Express‐AMEXCaribbean/North Coast of South America
+31,Charleston SCGenoa IT232M Alliance ‐‐ Hamburg Sud ‐ MEDUSEC/TA5Mediterranean
+32,Charleston SCGioia Tauro162M Alliance ‐‐ Hamburg Sud ‐ MEDUSEC/TA5Mediterranean
+33,Charleston SCHaiphong34MSC ‐ Santana ServiceAsia: Southeast Asia
+34,Charleston SCHaiphong42Wan Hai ‐ Asia America Service IX‐AA9 rtwAsia: Southeast Asia
+35,Charleston SCHamburg15THE Alliance ‐ Transatlantic Loop 3‐AL3North Europe
+36,"Charleston SCHong Kong37THE Alliance ‐ North America East Coast‐EC1Asia: Taiwan, China, Hong Kong"
+37,"Charleston SCHong Kong40OCEAN Alliance ‐‐ ANL ‐ South Atlantic Express‐ECX1/AWE4 rtwAsia: Taiwan, China, Hong Kong"
+38,Charleston SCIskenderun17COSCO/ONE ‐‐ OOCL ‐ EMAMediterranean
+39,Charleston SCJakarta35Maersk/SeaLand ‐ Asia‐USEC‐TP20 rtwAsia: Southeast Asia
+40,Charleston SCJeddah15Hapag‐Lloyd/CMA CGM/ONE/OOCL ‐‐ ANL/APL ‐ India East Coast Express‐INDAME Mideast
+41,"Charleston SCKaohsiung35THE Alliance ‐ North America East Coast‐EC1Asia: Taiwan, China, Hong Kong"
+42,"Charleston SCKaohsiung39THE Alliance ‐ North America East Coast‐EC4Asia: Taiwan, China, Hong Kong"
+43,Charleston SCKing Abdullah City30MSC ‐ Indus ExpressMideast
+44,Charleston SCKingston JM18ZIM ‐‐ Alianca/Hamburg Sud/Maersk Line/MSC/SeaLand ‐ ZCPCaribbean/North Coast of South America
+45,Charleston SCLa Spezia26COSCO/ONE ‐‐ OOCL ‐ EMAMediterranean
+46,Charleston SCLaem Chabang Thailand28OCEAN Alliance ‐‐ ANL ‐ Columbus JAX‐CJXAsia: Southeast Asia
+47,Charleston SCLe Havre15OCEAN Alliance ‐ Liberty Bridge‐LIBERTYNorth Europe
+48,Charleston SCLe Havre232M Alliance ‐‐ Alianca/Hamburg Sud ‐ NEUATL2/TA2North Europe
+49,Charleston SCLe Havre28OCEAN Alliance ‐ Victory Bridge‐VICTORYNorth Europe
+50,Charleston SCLeghorn222M Alliance ‐‐ Hamburg Sud ‐ MEDUSEC/TA5Mediterranean
+51,Charleston SCLondon Gateway18THE Alliance ‐ Transatlantic Loop 3‐AL3North Europe
+52,Charleston SCManzanillo Panama8Hamburg Sud/Hapag‐Lloyd ‐‐ APL/CMA CGM/Maersk Line/SeaLand ‐ AGAS/USWCentral America
+53,Charleston SCManzanillo Panama15THE Alliance ‐ North America East Coast‐EC1Central America
+54,Charleston SCMelbourne AU37Maersk Line ‐‐ Alianca/Hamburg Sud/Hapag‐Lloyd/MSC/SeaLand ‐ OC1Oceania
+55,Charleston SCMontevideo20Hamburg Sud/Hapag‐Lloyd ‐‐ Alianca/Maersk Line/SeaLand ‐ TANGO/SECEast Coast of South America
+56,Charleston SCMumbai (Nhava Sheva)25Hapag‐Lloyd/CMA CGM/ONE/OOCL ‐‐ ANL/APL ‐ India East Coast Express‐INDAME Indian Subcontinent
+57,Charleston SCMumbai (Nhava Sheva)45MSC ‐ Indus ExpressIndian Subcontinent
+58,Charleston SCMundra27Hapag‐Lloyd/CMA CGM/ONE/OOCL ‐‐ ANL/APL ‐ India East Coast Express‐INDAME Indian Subcontinent
+59,Charleston SCMundra47MSC ‐ Indus ExpressIndian Subcontinent
+60,"Charleston SCNansha29Sea Lead/TS Lines ‐ Asia East Coast‐AECAsia: Taiwan, China, Hong Kong"
+61,Charleston SCNapier46Maersk Line ‐‐ Alianca/Hamburg Sud/Hapag‐Lloyd/MSC/SeaLand ‐ OC1Oceania
+62,Charleston SCNaples IT192M Alliance ‐‐ Hamburg Sud ‐ MEDUSEC/TA5Mediterranean
+63,"Charleston SCNingbo17CMA CGM/APL ‐‐ COSCO/Evergreen Line ‐ Chesapeake Bay Express‐CBXAsia: Taiwan, China, Hong Kong"
+64,"Charleston SCNingbo30THE Alliance ‐ North America East Coast 2‐EC2Asia: Taiwan, China, Hong Kong"
+65,"Charleston SCNingbo30Sea Lead/TS Lines ‐ Asia East Coast‐AECAsia: Taiwan, China, Hong Kong"
